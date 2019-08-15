@@ -1,0 +1,1 @@
+Song.create!(title: "Right Back (feat. A Boogie wit da Hoodie)", released: true, release_year: 2019, artist_name: "Khalid", genre: "R&B/Soul")
